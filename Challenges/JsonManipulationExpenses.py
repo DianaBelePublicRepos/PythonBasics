@@ -1,7 +1,7 @@
 import json
 
 #Excel data 
-filename = 'expenses.json'
+filename = '../expenses.json'
 
 #Open the file 
 with open(filename, 'r') as f:
