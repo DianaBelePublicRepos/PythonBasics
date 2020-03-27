@@ -1,0 +1,243 @@
+{
+   "Rent ": [
+      {
+         "FIELD2": "1100 £",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "Ipoteca",
+         "FIELD6": "1400 RON",
+         "FIELD7": "",
+         "Incasari RO": "Mortgage",
+         "FIELD9": "800 - 1000 RON",
+         "FIELD10": "",
+         "Additional Spending RO": " Olympia ",
+         "FIELD12": "800 RON"
+      }
+   ],
+   "Dog Vet insurance": [
+      {
+         "FIELD2": "95£ - 30£ ",
+         "Exceptions February 2020": "Reimburse CC HSBC",
+         "FIELD4": "800£",
+         "Fixed spending RO": "Factura Orange",
+         "FIELD6": "50 RON",
+         "FIELD7": "",
+         "Incasari RO": "Rent OTP ",
+         "FIELD9": "1700 RON",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      }
+   ],
+   "Haircut": [
+      {
+         "FIELD2": "70£ - 2 per month",
+         "Exceptions February 2020": "Savings",
+         "FIELD4": "425£",
+         "Fixed spending RO": "Factura Digi + Enel",
+         "FIELD6": "~",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      }
+   ],
+   "": [
+      {
+         "FIELD2": "",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "Maintenance fees OTP",
+         "FIELD6": "~",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      },
+      {
+         "FIELD2": "",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "Investment fund",
+         "FIELD6": "500 RON",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      },
+      {
+         "FIELD2": "",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "Prime",
+         "FIELD6": "50 RON ",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      },
+      {
+         "FIELD2": "",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "Netflix",
+         "FIELD6": "35 RON",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      },
+      {
+         "FIELD2": "",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      },
+      {
+         "FIELD2": "",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      },
+      {
+         "FIELD2": "",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      },
+      {
+         "FIELD2": "?",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      }
+   ],
+   "Digme 8 classes per month ": [
+      {
+         "FIELD2": "90£ -100£",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "A Cloud Guru ",
+         "FIELD6": "130 RON",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      }
+   ],
+   "3 Bill ": [
+      {
+         "FIELD2": "15£",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      }
+   ],
+   "Huel order 2 bags per month ": [
+      {
+         "FIELD2": "50£",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      }
+   ],
+   "Fond Irina + Toni ": [
+      {
+         "FIELD2": "?",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      }
+   ],
+   "Fond Japan ": [
+      {
+         "FIELD2": "?",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      }
+   ],
+   "Fond cooking class May ": [
+      {
+         "FIELD2": "?",
+         "Exceptions February 2020": "",
+         "FIELD4": "",
+         "Fixed spending RO": "",
+         "FIELD6": "",
+         "FIELD7": "",
+         "Incasari RO": "",
+         "FIELD9": "",
+         "FIELD10": "",
+         "Additional Spending RO": "",
+         "FIELD12": ""
+      }
+   ]
+}
