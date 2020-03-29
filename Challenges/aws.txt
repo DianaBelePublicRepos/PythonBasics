@@ -1,0 +1,24 @@
+sudo mount /dev/nvme1n1p1 /mount2
+
+
+#!/bin/bash
+yum update -y
+yum install httpd -y
+cd /var/www/html
+echo "healthy" > healthy.html
+echo "Hello AWS!" > index.html
+chkconfig httpd on
+service httpd start
+
+
+
+
+
+sudo mount /dev/nvme1n1p1 -t ntfs-3g -o permissions /dev/disk2
+
+UUID=62843F16843EEBE3 /dev/disk2 ntfs-3g permissions     0       1
+
+
+
+cd /var/www/html/
+echo "Hello AWS! Want to see something incredible? https://imagesdianastaticassets.s3-us-west-1.amazonaws.com/milky.jpg" >index.html
