@@ -10,10 +10,10 @@ counter = 0
 for i in guinea_pig_string:
 
     if guinea_pig_string[0] == guinea_pig_string[counter]:
-        print("Yeeey")
+        print("\nYeeey!!! We have at least one. Let's see who it is :)\n")
         break
 
-    print(i + " This one doesn't match")
+    print(i + " There are no duplicates in this string")
     counter = counter + 1
     print(counter)
 
@@ -22,11 +22,9 @@ for i in guinea_pig_string:
 def find_dup_char(input):
     #Creating a dict using counter which will have strings as key and frequency as values
     WC = Counter(input)
-    j = -1
 
-    #Finding the number of occurences of a char and get the index of it
+    #Finding the number of occurences of a char
     for i in WC.values():
-        j = j+1
         if(i > 1):
             for key, value in WC.items():
                  print(key, "=", value)
